@@ -3,8 +3,8 @@ You just wake up from and notice you are in WW1. What would you do now?
 
 [Help a friend](help-friend/3)
 
-[Call for backup]()
+[Call for backup](call-backup/1)
 
 [Help defend the base](defend-base/2)
 
-[Commit suicide]()
+[Commit suicide](suicide/4)
