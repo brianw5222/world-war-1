@@ -1,6 +1,6 @@
-## Driving...
+## BOOM...
 
-You were driving in and a grenade flow on your tank.
+A grenade fell on you.
 
 Boom, You are dead.
 
