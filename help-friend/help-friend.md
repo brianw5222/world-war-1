@@ -1,6 +1,6 @@
- ## you ran away
- you left your friend to die and you went back to base with a broken leg
+# You go and help you friend
+you go and friend but he is wounded
 
- [fix the radio](call-backup/1.md)
+[Let then die](../run/run.md)
 
- [use bandages](bombed/readme.md)
+[Help him](../bombed/bombed.md)
