@@ -1,7 +1,7 @@
 # Welcome to WW1
 You just wake up from and notice you are in WW1. What would you do now?
 
-[Help a friend](help-friend/3)
+[Help a friend](help-friend/README.md)
 
 [Call for backup](call-backup/1)
 
