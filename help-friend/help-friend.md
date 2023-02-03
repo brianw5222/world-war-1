@@ -1,0 +1,6 @@
+ ## you ran away
+ you left your friend to die and you went back to base with a broken leg
+
+ [fix the radio](call-backup/1.md)
+
+ [use bandages](bombed/readme.md)

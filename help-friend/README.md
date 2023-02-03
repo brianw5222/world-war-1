@@ -1,6 +1,6 @@
-# you go and help you friend
+# You go and help you friend
 you go and friend but he is wounded
 
-[let then die](../run)
+[Let then die](../run)
 
-[help him]()
+[Help him](../bombed/bombed.md)
