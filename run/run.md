@@ -1,6 +1,6 @@
 # You ran away
 
-You trip and broke your feet. You found a radio.
+You left your friend to die and went back to base with a broken leg.
 
 [Open radio]()
 
